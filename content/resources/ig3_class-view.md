@@ -11,7 +11,11 @@ image_metadata:
     \ 1 DL08. Accurate as of Friday October 30, 2015; 04:39:44 PM. 83 students took\
     \ nano quiz 08 in section 1. Number Completed Checkoffs: 83/83 (100.00%) done\
     \ with DL08 Checkoff 1."
+learning_resource_types: []
+parent_title: Electronic Help Queue
+parent_type: CourseSection
 resourcetype: Image
 title: ig3_class-view.png
+type: OCWImage
 uid: 0edde042-2522-d9b0-8381-d61fedb4773d
 ---

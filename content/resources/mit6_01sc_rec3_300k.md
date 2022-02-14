@@ -3,7 +3,9 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/12706dde8e0de35653a36b76178fb624_MIT6_01SC_rec3_300k.srt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: MIT6_01SC_rec3_300k.srt
+type: OCWFile
 uid: 12706dde-8e0d-e356-53a3-6b76178fb624
 ---

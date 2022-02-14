@@ -4,7 +4,11 @@ description: This resource contains information related to primitives, combinati
   patterns and abstraction.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/6befa2f7542ca110af48020a8c8cf8ad_MIT6_01SCS11_lec02_handout.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: State Machines
+parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_lec02_handout.pdf
+type: OCWFile
 uid: 6befa2f7-542c-a110-af48-020a8c8cf8ad
 ---

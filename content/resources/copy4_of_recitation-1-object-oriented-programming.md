@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Recitation 9: Circuits: Representation, KVL, KCL'
 uid: d0e56a7f-9c56-8e87-f18f-48283d3b5eac

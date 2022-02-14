@@ -1,9 +1,12 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 2aef49a5-63b7-0f93-319d-156d62607fed
 title: Shifting to a Practice-Theory-Practice Approach
+type: CourseSection
 uid: b0fe4856-cb03-8a61-e660-9aa70f6303e2
 ---
 

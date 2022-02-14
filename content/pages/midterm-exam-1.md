@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Midterm Exam 1
+type: CourseSection
 uid: 24776cfb-b0ec-bc54-3330-815fbee988c9
 ---
 

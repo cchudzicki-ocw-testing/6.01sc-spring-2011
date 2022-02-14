@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Final Exam
+type: CourseSection
 uid: f0df2cae-e4ea-c3e0-a431-246d722e93a5
 ---
 

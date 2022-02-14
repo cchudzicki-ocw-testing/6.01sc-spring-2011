@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Unit 4: Probability and Planning'
+parent_type: CourseSection
 parent_uid: f216c72d-f519-1296-c531-19833fb7c73a
 title: Discrete Probability
+type: CourseSection
 uid: e97072ec-1818-d115-7deb-3b29326fe85e
 ---
 

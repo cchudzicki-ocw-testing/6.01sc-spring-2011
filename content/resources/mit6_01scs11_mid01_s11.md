@@ -4,7 +4,11 @@ description: This resource contains information on problem on difference equatio
   and pole.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/d46954fbc5c2ca4add1119785c0215ec_MIT6_01SCS11_mid01_S11.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Midterm Exam 1
+parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_mid01_S11.pdf
+type: OCWFile
 uid: d46954fb-c5c2-ca4a-dd11-19785c0215ec
 ---

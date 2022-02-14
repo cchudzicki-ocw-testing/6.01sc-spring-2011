@@ -1,9 +1,12 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 2aef49a5-63b7-0f93-319d-156d62607fed
 title: Flipping the Classroom to Facilitate Active Learning
+type: CourseSection
 uid: 2280def2-566b-f511-9dc8-6d7e54da9a37
 ---
 

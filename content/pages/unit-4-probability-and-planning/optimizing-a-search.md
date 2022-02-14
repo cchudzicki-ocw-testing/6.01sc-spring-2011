@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Unit 4: Probability and Planning'
+parent_type: CourseSection
 parent_uid: f216c72d-f519-1296-c531-19833fb7c73a
 title: Optimizing a Search
+type: CourseSection
 uid: da41172c-d83b-2571-9eae-caa5c1bcde32
 ---
 

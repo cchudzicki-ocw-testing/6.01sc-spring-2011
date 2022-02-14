@@ -8,7 +8,11 @@ image_metadata:
   credit: ''
   image-alt: Diagram of a vehicle attempting to follow a straight line, and its responses
     to steering.
+learning_resource_types: []
+parent_title: 'Unit 2: Signals and Systems'
+parent_type: CourseSection
 resourcetype: Image
 title: unit2.jpg
+type: OCWImage
 uid: 10171c46-9cd5-4b08-b5ec-e722b134b26c
 ---

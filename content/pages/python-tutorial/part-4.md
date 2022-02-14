@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Python Tutorial
+parent_type: CourseSection
 parent_uid: eb35763e-4457-1074-0617-fdcde7901af1
 title: Quadratic Roots
+type: CourseSection
 uid: ce4c90ec-c2fb-3000-9355-7e60b8057994
 ---
 

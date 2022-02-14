@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Unit 2: Signals and Systems'
+parent_type: CourseSection
 parent_uid: 523e1f18-8f85-4804-7030-f2ec4580e9b6
 title: Signals and Systems
+type: CourseSection
 uid: 6b5aad8b-edd8-1cc6-cd71-6bb0eed5c5d8
 ---
 

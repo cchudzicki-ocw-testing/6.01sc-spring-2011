@@ -11,7 +11,11 @@ image_metadata:
   image-alt: "Table with five columns and three rows. Column 1 contains students'\
     \ names and pictures; column 2 has the assignment names; column 3 has students\u2019\
     \ table numbers; column 4 has staff names."
+learning_resource_types: []
+parent_title: Electronic Help Queue
+parent_type: CourseSection
 resourcetype: Image
 title: ig1_queue.png
+type: OCWImage
 uid: ea103d55-f789-ad6b-6516-aa31cfa08582
 ---
