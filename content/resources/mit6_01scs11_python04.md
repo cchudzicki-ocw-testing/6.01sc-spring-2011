@@ -8,6 +8,5 @@ parent_title: Loops and List Comprehensions
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_python04.pdf
-type: OCWFile
 uid: 30067abf-84ce-e3c7-c5f9-d3c5763b525c
 ---

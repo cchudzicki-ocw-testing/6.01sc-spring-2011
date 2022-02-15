@@ -8,6 +8,5 @@ parent_title: Circuits
 parent_type: CourseSection
 resourcetype: Other
 title: swLab07.zip
-type: OCWFile
 uid: 9219267b-d608-04b7-9b2c-973518524a77
 ---

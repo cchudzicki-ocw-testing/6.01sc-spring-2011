@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: 'MIT 6.01SC S11 Recitation 5: LTI Motivations and Representations Transcript'
-type: OCWFile
 uid: 7354f543-4b09-60d8-ce4c-2db6300e1590
 ---

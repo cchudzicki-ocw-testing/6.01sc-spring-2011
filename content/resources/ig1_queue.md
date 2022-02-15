@@ -16,6 +16,5 @@ parent_title: Electronic Help Queue
 parent_type: CourseSection
 resourcetype: Image
 title: ig1_queue.png
-type: OCWImage
 uid: ea103d55-f789-ad6b-6516-aa31cfa08582
 ---

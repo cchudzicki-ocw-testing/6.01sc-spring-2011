@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Midterm Exam 2
-type: CourseSection
 uid: 6f140846-08f8-5898-b504-c894e903e5a7
 ---
 

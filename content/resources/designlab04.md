@@ -8,6 +8,5 @@ parent_title: Linear Time-Invariant Signals and Systems
 parent_type: CourseSection
 resourcetype: Other
 title: designLab04.zip
-type: OCWFile
 uid: 632677f6-ec9e-fcda-3ffc-e1574bd3f3d7
 ---

@@ -8,6 +8,5 @@ parent_title: Search Algorithms
 parent_type: CourseSection
 resourcetype: Other
 title: swLab13.zip
-type: OCWFile
 uid: 56b7afae-c78b-3b90-48d9-9c783f8c908d
 ---

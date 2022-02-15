@@ -8,6 +8,5 @@ parent_title: State Machines
 parent_type: CourseSection
 resourcetype: Other
 title: tutorial.py
-type: OCWFile
 uid: 87ec02d7-cbda-cf78-14a2-9918c391366d
 ---

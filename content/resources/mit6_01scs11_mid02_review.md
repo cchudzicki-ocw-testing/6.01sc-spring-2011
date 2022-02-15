@@ -9,6 +9,5 @@ parent_title: Midterm Exam 2
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_mid02_review.pdf
-type: OCWFile
 uid: 56e33ac2-0f7b-ffe4-56a0-8f307b9eb6b9
 ---

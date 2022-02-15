@@ -8,6 +8,5 @@ parent_title: Circuits
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_designLab07.pdf
-type: OCWFile
 uid: e949fa13-9d3c-0e1d-e448-0699bc8a6f80
 ---

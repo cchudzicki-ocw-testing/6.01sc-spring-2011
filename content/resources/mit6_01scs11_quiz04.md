@@ -8,6 +8,5 @@ parent_title: Linear Time-Invariant Signals and Systems
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_quiz04.pdf
-type: OCWFile
 uid: 50bc8593-feb8-c416-8200-1736d5f1fa05
 ---

@@ -8,6 +8,5 @@ parent_title: Op-Amps
 parent_type: CourseSection
 resourcetype: Other
 title: hw3.zip
-type: OCWFile
 uid: d5dba7ae-c9ea-e45e-0701-42b87f75149b
 ---

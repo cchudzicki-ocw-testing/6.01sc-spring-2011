@@ -8,6 +8,5 @@ parent_title: Functions and Scope
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_python02.pdf
-type: OCWFile
 uid: 50c7addb-d3fb-66fd-03b9-c51dbfccd2eb
 ---

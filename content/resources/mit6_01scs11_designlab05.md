@@ -8,6 +8,5 @@ parent_title: Characterizing System Performance
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_designLab05.pdf
-type: OCWFile
 uid: 76d73ee3-997f-af72-e895-64a93c8469a1
 ---

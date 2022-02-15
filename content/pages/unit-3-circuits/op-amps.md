@@ -5,7 +5,6 @@ parent_title: 'Unit 3: Circuits'
 parent_type: CourseSection
 parent_uid: a1eba704-7e5c-2f54-d1f9-ab12008fb7cc
 title: Op-Amps
-type: CourseSection
 uid: 6912b6f0-dfbf-7463-fa37-8df8bde18e96
 ---
 

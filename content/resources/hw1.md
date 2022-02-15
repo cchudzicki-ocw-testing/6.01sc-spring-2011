@@ -8,6 +8,5 @@ parent_title: State Machines
 parent_type: CourseSection
 resourcetype: Other
 title: hw1.zip
-type: OCWFile
 uid: 2028afd5-cf3e-ce2b-b1f8-bd5855a701e1
 ---

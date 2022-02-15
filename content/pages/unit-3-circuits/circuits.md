@@ -5,7 +5,6 @@ parent_title: 'Unit 3: Circuits'
 parent_type: CourseSection
 parent_uid: a1eba704-7e5c-2f54-d1f9-ab12008fb7cc
 title: Circuits
-type: CourseSection
 uid: c1a11356-f20d-61ec-dbf3-85a0ade29169
 ---
 

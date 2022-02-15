@@ -8,6 +8,5 @@ parent_title: Circuits
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_ses07.pdf
-type: OCWFile
 uid: d2547fd8-2919-117e-bc49-ec05ec695e2e
 ---

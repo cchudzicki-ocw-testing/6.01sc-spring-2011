@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: 'Unit 4: Probability and Planning'
-type: CourseSection
 uid: f216c72d-f519-1296-c531-19833fb7c73a
 ---
 

@@ -8,6 +8,5 @@ parent_title: Optimizing a Search
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_designLab14.pdf
-type: OCWFile
 uid: eac44100-b94f-c1b8-48b9-ea46cd0a9594
 ---

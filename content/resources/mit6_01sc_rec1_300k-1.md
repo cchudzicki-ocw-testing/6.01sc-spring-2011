@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: 'MIT 6.01SC S11 Recitation 1: Object-Oriented Programming Transcript'
-type: OCWFile
 uid: 2e0cb832-c505-0ecb-e0e9-d334823accfd
 ---

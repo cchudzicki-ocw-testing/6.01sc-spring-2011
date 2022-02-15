@@ -8,6 +8,5 @@ parent_title: Types, Values, Expressions; Variables and Binding
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_python01.pdf
-type: OCWFile
 uid: 5f5a21bc-2f61-4e14-eb4b-8584c8b13bd8
 ---

@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: 'MIT 6.01SC S11 Recitation 6: System Equivalences Transcript'
-type: OCWFile
 uid: 615a5128-9ed2-8705-0f55-a95cb45103d1
 ---

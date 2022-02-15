@@ -8,6 +8,5 @@ parent_title: Final Exam
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_final_F10.pdf
-type: OCWFile
 uid: ecb60f4e-ccf3-5a19-2659-4c069e426a96
 ---

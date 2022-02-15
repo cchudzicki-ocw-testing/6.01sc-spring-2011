@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: 'MIT 6.01SC S11 Recitation 7: Poles, Part I Transcript'
-type: OCWFile
 uid: eaa90db4-d386-e267-c5a3-32d64fc021fe
 ---

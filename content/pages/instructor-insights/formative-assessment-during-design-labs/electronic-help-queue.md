@@ -5,7 +5,6 @@ parent_title: Formative Assessment during Design Labs
 parent_type: CourseSection
 parent_uid: e67f5bf6-4bd7-6a03-436b-80ea36e1fa29
 title: Electronic Help Queue
-type: CourseSection
 uid: e5627dfb-5583-4b92-360e-5e5b805c607a
 ---
 

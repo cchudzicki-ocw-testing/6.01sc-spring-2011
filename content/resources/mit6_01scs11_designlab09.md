@@ -8,6 +8,5 @@ parent_title: Circuit Abstractions
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_designLab09.pdf
-type: OCWFile
 uid: 089b3846-4adb-670b-3956-d3c60f75a063
 ---

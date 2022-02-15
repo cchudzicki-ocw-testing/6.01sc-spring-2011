@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: 'MIT 6.01SC S11 Recitation 3: Python Notables Transcript'
-type: OCWFile
 uid: 18076b70-6266-d685-1570-0f0dfdf36bf9
 ---

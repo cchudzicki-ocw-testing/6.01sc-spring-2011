@@ -8,6 +8,5 @@ parent_title: Designing Control Systems
 parent_type: CourseSection
 resourcetype: Other
 title: designLab06.zip
-type: OCWFile
 uid: d5f2dea1-2941-03b4-fe0c-63f94b002afe
 ---

@@ -8,6 +8,5 @@ parent_title: Circuits
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_lec07_handout.pdf
-type: OCWFile
 uid: 3be964f5-53a1-b133-01f7-899e519bb955
 ---

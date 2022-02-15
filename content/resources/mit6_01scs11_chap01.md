@@ -8,6 +8,5 @@ parent_title: Object-Oriented Programming
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_chap01.pdf
-type: OCWFile
 uid: b06ac6af-5e25-d9fd-62ff-1600b187af6e
 ---

@@ -8,6 +8,5 @@ parent_title: Signals and Systems
 parent_type: CourseSection
 resourcetype: Other
 title: idleNForWindows.zip
-type: OCWFile
 uid: ba621ded-c9de-8c14-9367-dbf65fc4679d
 ---

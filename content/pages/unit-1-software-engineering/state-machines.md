@@ -5,7 +5,6 @@ parent_title: 'Unit 1: Software Engineering'
 parent_type: CourseSection
 parent_uid: 0c533b50-ae1f-2ed5-2d4e-2e0343b23b5b
 title: State Machines
-type: CourseSection
 uid: b0e7778a-9914-9a75-aa7b-17b290520cb3
 ---
 

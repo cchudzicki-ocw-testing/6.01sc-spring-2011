@@ -8,6 +8,5 @@ parent_title: Signals and Systems
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_swLab03.pdf
-type: OCWFile
 uid: c6c10435-60ee-306e-f518-4d599469ebe5
 ---

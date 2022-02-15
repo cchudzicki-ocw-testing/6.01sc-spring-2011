@@ -8,6 +8,5 @@ parent_title: State Machines
 parent_type: CourseSection
 resourcetype: Other
 title: designLab02.zip
-type: OCWFile
 uid: 4efa5258-0cd4-8461-78ba-427a065d3dfa
 ---

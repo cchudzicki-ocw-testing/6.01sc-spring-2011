@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: 'MIT 6.01SC S11 Recitation 2: Inheritance Transcript'
-type: OCWFile
 uid: d8974c27-2447-8607-b0ed-ec620ef6ea51
 ---

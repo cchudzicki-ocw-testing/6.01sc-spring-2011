@@ -8,6 +8,5 @@ parent_title: State Estimation
 parent_type: CourseSection
 resourcetype: Other
 title: designLab11.zip
-type: OCWFile
 uid: ec06e4de-d396-a5bf-2b6a-cb495ce96e2f
 ---

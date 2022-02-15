@@ -8,6 +8,5 @@ parent_title: State Estimation
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_quiz11_sol.pdf
-type: OCWFile
 uid: 4bf983b7-2d7b-6336-675b-b33e14a7fc06
 ---

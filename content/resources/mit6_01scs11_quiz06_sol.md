@@ -8,6 +8,5 @@ parent_title: Designing Control Systems
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_quiz06_sol.pdf
-type: OCWFile
 uid: 88dc5538-c694-b5a6-eb63-30a78d43ef36
 ---

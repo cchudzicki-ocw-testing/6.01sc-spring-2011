@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Python Tutorial
-type: CourseSection
 uid: eb35763e-4457-1074-0617-fdcde7901af1
 ---
 

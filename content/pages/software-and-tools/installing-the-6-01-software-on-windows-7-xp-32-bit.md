@@ -5,7 +5,6 @@ parent_title: Software and Tools
 parent_type: CourseSection
 parent_uid: 7ff627d1-c807-cddd-75e0-3d0659f60269
 title: Installing the 6.01 Software on Windows 7/XP (32-bit)
-type: CourseSection
 uid: 749135ae-ad3f-8e6f-ea41-7ead25446e40
 ---
 

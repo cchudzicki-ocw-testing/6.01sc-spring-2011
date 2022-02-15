@@ -8,6 +8,5 @@ parent_title: Signals and Systems
 parent_type: CourseSection
 resourcetype: Other
 title: swLab03.zip
-type: OCWFile
 uid: f71173ef-36fa-5900-14a3-72185fceee49
 ---

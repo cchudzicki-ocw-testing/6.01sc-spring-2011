@@ -8,6 +8,5 @@ parent_title: Characterizing System Performance
 parent_type: CourseSection
 resourcetype: Other
 title: swLab05.zip
-type: OCWFile
 uid: a9fb421b-6618-46cf-7dbc-07139420b5a8
 ---

@@ -8,6 +8,5 @@ parent_title: Optimizing a Search
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_ses13.pdf
-type: OCWFile
 uid: 4cccf934-9d3c-5417-be97-4dfd8bb9e5c3
 ---

@@ -8,6 +8,5 @@ parent_title: Circuit Abstractions
 parent_type: CourseSection
 resourcetype: Other
 title: swLab09.zip
-type: OCWFile
 uid: 05386924-a8ce-4149-a16d-ac80a5aa7cd4
 ---

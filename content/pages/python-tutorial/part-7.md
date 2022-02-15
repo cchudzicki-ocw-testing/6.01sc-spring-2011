@@ -5,7 +5,6 @@ parent_title: Python Tutorial
 parent_type: CourseSection
 parent_uid: eb35763e-4457-1074-0617-fdcde7901af1
 title: Association Lists
-type: CourseSection
 uid: e9eff05a-fba0-05d6-b94c-6396635771d3
 ---
 

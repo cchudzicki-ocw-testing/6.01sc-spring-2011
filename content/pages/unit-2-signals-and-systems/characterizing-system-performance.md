@@ -5,7 +5,6 @@ parent_title: 'Unit 2: Signals and Systems'
 parent_type: CourseSection
 parent_uid: 523e1f18-8f85-4804-7030-f2ec4580e9b6
 title: Characterizing System Performance
-type: CourseSection
 uid: 1900980a-94df-dd0b-4f70-fee6ba697a76
 ---
 

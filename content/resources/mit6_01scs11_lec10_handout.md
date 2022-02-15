@@ -9,6 +9,5 @@ parent_title: Discrete Probability
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_lec10_handout.pdf
-type: OCWFile
 uid: 79ddcd38-b399-ca5f-8b18-107f668bc0aa
 ---

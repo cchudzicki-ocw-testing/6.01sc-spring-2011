@@ -12,6 +12,5 @@ parent_title: 'Unit 1: Software Engineering'
 parent_type: CourseSection
 resourcetype: Image
 title: unit1.jpg
-type: OCWImage
 uid: 2b5ba17e-f6a4-14b5-0e1c-eeb127efb06f
 ---

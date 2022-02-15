@@ -5,7 +5,6 @@ parent_title: Python Tutorial
 parent_type: CourseSection
 parent_uid: eb35763e-4457-1074-0617-fdcde7901af1
 title: Loops and List Comprehensions
-type: CourseSection
 uid: 57d4e60d-992f-a07b-e58a-3a6eb537581e
 ---
 

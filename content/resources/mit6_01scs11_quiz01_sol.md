@@ -8,6 +8,5 @@ parent_title: Object-Oriented Programming
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_quiz01_sol.pdf
-type: OCWFile
 uid: 5150c3ff-842b-2931-761c-cd7457d2c8f3
 ---

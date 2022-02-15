@@ -9,6 +9,5 @@ parent_title: State Machines
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_lec02_handout.pdf
-type: OCWFile
 uid: 6befa2f7-542c-a110-af48-020a8c8cf8ad
 ---

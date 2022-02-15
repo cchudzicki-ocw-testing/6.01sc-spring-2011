@@ -8,6 +8,5 @@ parent_title: State Machines
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_quiz02_sol.pdf
-type: OCWFile
 uid: b22eaac6-9524-f77f-cc51-2b2e90091a09
 ---

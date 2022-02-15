@@ -8,6 +8,5 @@ parent_title: State Machines
 parent_type: CourseSection
 resourcetype: Other
 title: swLab02.zip
-type: OCWFile
 uid: b6be46a5-fa27-608a-badc-ae7b8eefbb9d
 ---

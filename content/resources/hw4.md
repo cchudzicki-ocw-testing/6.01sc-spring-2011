@@ -8,6 +8,5 @@ parent_title: State Estimation
 parent_type: CourseSection
 resourcetype: Other
 title: hw4.zip
-type: OCWFile
 uid: 2af533f1-6111-3a31-8664-c482841194be
 ---

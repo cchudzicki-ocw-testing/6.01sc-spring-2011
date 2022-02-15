@@ -8,6 +8,5 @@ parent_title: Circuit Abstractions
 parent_type: CourseSection
 resourcetype: Other
 title: designLab09.zip
-type: OCWFile
 uid: 868114d6-9209-1b88-a2be-c8c48d50255c
 ---

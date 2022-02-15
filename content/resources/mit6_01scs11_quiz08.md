@@ -8,6 +8,5 @@ parent_title: Op-Amps
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_quiz08.pdf
-type: OCWFile
 uid: ae49c3a2-7328-1c15-09d5-85dcedbbd4ef
 ---

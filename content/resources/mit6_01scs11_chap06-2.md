@@ -8,6 +8,5 @@ parent_title: Circuit Abstractions
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_chap06.pdf
-type: OCWFile
 uid: 321581bc-448d-021c-2d27-7875992f7446
 ---

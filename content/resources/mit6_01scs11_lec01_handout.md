@@ -8,6 +8,5 @@ parent_title: Object-Oriented Programming
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_lec01_handout.pdf
-type: OCWFile
 uid: 9083a2e7-e6d9-5c24-695b-08509bd15bd4
 ---

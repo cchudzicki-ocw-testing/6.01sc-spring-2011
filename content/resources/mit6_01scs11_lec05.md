@@ -8,6 +8,5 @@ parent_title: Characterizing System Performance
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_lec05.pdf
-type: OCWFile
 uid: cdbd8564-2217-2e40-716f-570654b5ec4c
 ---

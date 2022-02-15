@@ -8,6 +8,5 @@ parent_title: Op-Amps
 parent_type: CourseSection
 resourcetype: Other
 title: swLab08.zip
-type: OCWFile
 uid: 873416b2-d6d5-b052-23f2-b3f8385c67e1
 ---

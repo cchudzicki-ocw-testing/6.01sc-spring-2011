@@ -8,6 +8,5 @@ parent_title: State Machines
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_designLab02.pdf
-type: OCWFile
 uid: ebb9c9e6-8d9c-0998-e856-ef248b4be80a
 ---

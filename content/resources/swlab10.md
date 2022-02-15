@@ -8,6 +8,5 @@ parent_title: Discrete Probability
 parent_type: CourseSection
 resourcetype: Other
 title: swLab10.zip
-type: OCWFile
 uid: 6f49c20c-cbed-80b9-25f7-07a52db2517a
 ---

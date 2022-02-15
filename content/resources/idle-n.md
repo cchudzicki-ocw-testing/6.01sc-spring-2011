@@ -8,6 +8,5 @@ parent_title: Installing the 6.01 Software on Windows 7/XP (32-bit)
 parent_type: CourseSection
 resourcetype: Other
 title: idle-n.bat
-type: OCWFile
 uid: 6881892d-1595-dc85-a161-4c2826cc6927
 ---

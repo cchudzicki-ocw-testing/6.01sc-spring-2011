@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: 'MIT 6.01SC S11 Recitation 4: State Machines Transcript'
-type: OCWFile
 uid: cab51a22-bbf0-5a53-b785-25e067f50896
 ---

@@ -8,6 +8,5 @@ parent_title: Signals and Systems
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_quiz03_sol.pdf
-type: OCWFile
 uid: 7cafa5bc-7d7f-591a-4424-92204e9f9c27
 ---

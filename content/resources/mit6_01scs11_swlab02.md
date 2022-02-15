@@ -8,6 +8,5 @@ parent_title: State Machines
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_swLab02.pdf
-type: OCWFile
 uid: 584142f5-d178-cfab-517e-3a961bbb0ca4
 ---

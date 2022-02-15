@@ -8,6 +8,5 @@ parent_title: Characterizing System Performance
 parent_type: CourseSection
 resourcetype: Other
 title: hw2.zip
-type: OCWFile
 uid: 9af21662-44f5-c9a0-1596-ebc07b56d28e
 ---

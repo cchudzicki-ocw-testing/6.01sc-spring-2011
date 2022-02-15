@@ -6,6 +6,5 @@ file_type: application/x-subrip
 learning_resource_types: []
 resourcetype: Other
 title: MIT6_01SC_rec15_300k.srt
-type: OCWFile
 uid: f51cc6af-a108-4eaa-369d-5b10bffefde4
 ---

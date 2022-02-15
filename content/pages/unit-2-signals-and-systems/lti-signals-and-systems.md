@@ -5,7 +5,6 @@ parent_title: 'Unit 2: Signals and Systems'
 parent_type: CourseSection
 parent_uid: 523e1f18-8f85-4804-7030-f2ec4580e9b6
 title: Linear Time-Invariant Signals and Systems
-type: CourseSection
 uid: 09ae0a4b-00ca-3719-2b3f-fe9f36ca05cd
 ---
 

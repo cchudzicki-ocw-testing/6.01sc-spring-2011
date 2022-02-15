@@ -5,7 +5,6 @@ parent_title: 'Unit 4: Probability and Planning'
 parent_type: CourseSection
 parent_uid: f216c72d-f519-1296-c531-19833fb7c73a
 title: Search Algorithms
-type: CourseSection
 uid: 497582d8-68ca-82e7-7ef7-6b997e187b13
 ---
 

@@ -8,6 +8,5 @@ parent_title: State Estimation
 parent_type: CourseSection
 resourcetype: Other
 title: swLab12.zip
-type: OCWFile
 uid: 5e590783-1ddf-22f0-2f65-b682cc9ce418
 ---

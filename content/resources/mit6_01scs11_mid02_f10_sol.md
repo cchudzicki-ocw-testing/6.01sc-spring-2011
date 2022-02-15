@@ -9,6 +9,5 @@ parent_title: Midterm Exam 2
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_mid02_F10_sol.pdf
-type: OCWFile
 uid: cf18baa0-07f2-c3cb-2c67-af27e15d074d
 ---

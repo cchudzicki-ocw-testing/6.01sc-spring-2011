@@ -8,6 +8,5 @@ parent_title: Optimizing a Search
 parent_type: CourseSection
 resourcetype: Other
 title: swLab14.zip
-type: OCWFile
 uid: 01f0f94f-591f-7020-ef71-8a2dafbc2aaa
 ---

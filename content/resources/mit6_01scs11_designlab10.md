@@ -8,6 +8,5 @@ parent_title: Discrete Probability
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_designLab10.pdf
-type: OCWFile
 uid: c9c1e971-8789-0575-7641-f397c82e6a5a
 ---

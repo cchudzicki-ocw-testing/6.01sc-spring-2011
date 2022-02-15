@@ -8,6 +8,5 @@ parent_title: Optimizing a Search
 parent_type: CourseSection
 resourcetype: Other
 title: designLab14.zip
-type: OCWFile
 uid: ac67003a-96de-8ae4-4ba6-da23e5c9c665
 ---

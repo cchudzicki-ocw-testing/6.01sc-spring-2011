@@ -8,6 +8,5 @@ parent_title: Search Algorithms
 parent_type: CourseSection
 resourcetype: Other
 title: designLab13.zip
-type: OCWFile
 uid: 8890d92c-6e6e-d28a-331b-f3fd6e9bce1c
 ---

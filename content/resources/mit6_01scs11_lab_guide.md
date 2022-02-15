@@ -8,6 +8,5 @@ parent_title: Software and Tools
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_lab_guide.pdf
-type: OCWFile
 uid: 298b9a05-680a-016b-13db-6aa79071d9fa
 ---

@@ -8,6 +8,5 @@ parent_title: Software and Tools
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_cmax.pdf
-type: OCWFile
 uid: 3e54268d-a5b5-d7d4-6ef0-3047097d55e4
 ---

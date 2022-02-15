@@ -17,6 +17,5 @@ parent_title: Electronic Help Queue
 parent_type: CourseSection
 resourcetype: Image
 title: ig2_student-view.png
-type: OCWImage
 uid: 62fe0404-f092-ac2d-c1c0-cc998b0631df
 ---

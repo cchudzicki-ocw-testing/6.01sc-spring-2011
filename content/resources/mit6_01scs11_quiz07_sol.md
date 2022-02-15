@@ -8,6 +8,5 @@ parent_title: Circuits
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_quiz07_sol.pdf
-type: OCWFile
 uid: 6a482b0a-363d-a91a-bcb5-3c09839e7fb8
 ---

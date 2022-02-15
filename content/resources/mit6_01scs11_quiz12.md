@@ -8,6 +8,5 @@ parent_title: Search Algorithms
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_01SCS11_quiz12.pdf
-type: OCWFile
 uid: 4afdf8c1-edb1-9122-8d64-d65e57131e44
 ---
