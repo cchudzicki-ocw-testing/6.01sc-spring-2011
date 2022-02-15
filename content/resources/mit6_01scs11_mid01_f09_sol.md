@@ -5,6 +5,7 @@ description: This resource contains information on solution of problem on OOP, s
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/9c1e8568c5a6c60d4a5f81aa96d7d421_MIT6_01SCS11_mid01_F09_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Midterm Exam 1
 parent_type: CourseSection
 resourcetype: Document

@@ -4,6 +4,7 @@ description: This resource contains final exam for 2009.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/13808c783e26a1bee3456dd98ec3f1f7_MIT6_01SCS11_final_F09.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection
 resourcetype: Document

@@ -4,6 +4,7 @@ description: This resource contains information related to controlling robots.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/ebb9c9e68d9c0998e856ef248b4be80a_MIT6_01SCS11_designLab02.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: State Machines
 parent_type: CourseSection
 resourcetype: Document

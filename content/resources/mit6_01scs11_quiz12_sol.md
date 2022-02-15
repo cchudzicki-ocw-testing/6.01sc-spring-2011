@@ -4,6 +4,7 @@ description: This resource contains solutions for the quiz.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/92bc57754dda18696aba6688084c0553_MIT6_01SCS11_quiz12_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Search Algorithms
 parent_type: CourseSection
 resourcetype: Document

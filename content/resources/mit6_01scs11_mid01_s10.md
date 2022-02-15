@@ -4,6 +4,7 @@ description: This resource contains information on problem on OOP, SE to DE, and
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/8f817d1ce91007171d23c3328060b37c_MIT6_01SCS11_mid01_S10.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Midterm Exam 1
 parent_type: CourseSection
 resourcetype: Document

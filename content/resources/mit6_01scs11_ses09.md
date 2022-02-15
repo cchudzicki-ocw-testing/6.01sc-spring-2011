@@ -4,6 +4,7 @@ description: This resource contains information on session 9, circuit abstractio
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/f15061c9e08f88e12fe46bb1aa57fd48_MIT6_01SCS11_ses09.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Circuit Abstractions
 parent_type: CourseSection
 resourcetype: Document

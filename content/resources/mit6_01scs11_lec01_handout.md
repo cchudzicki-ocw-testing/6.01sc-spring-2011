@@ -4,6 +4,7 @@ description: This resource contains information related to object oriented progr
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/9083a2e7e6d95c24695b08509bd15bd4_MIT6_01SCS11_lec01_handout.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Object-Oriented Programming
 parent_type: CourseSection
 resourcetype: Document

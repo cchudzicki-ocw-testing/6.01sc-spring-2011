@@ -5,6 +5,7 @@ description: This resource contains information on solution of problem on voltag
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/be1f15057de0ad444c62c7016175d510_MIT6_01SCS11_mid02_S11_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Midterm Exam 2
 parent_type: CourseSection
 resourcetype: Document

@@ -4,6 +4,7 @@ description: 'This zip file contains: 3 .py files.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/d5f2dea1294103b4fe0c63f94b002afe_designLab06.zip
 file_type: application/zip
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Designing Control Systems
 parent_type: CourseSection
 resourcetype: Other

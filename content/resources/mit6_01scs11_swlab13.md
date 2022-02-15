@@ -4,6 +4,7 @@ description: This resource contains software lab.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/baeaad496857751da2d23da78329792e_MIT6_01SCS11_swLab13.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Search Algorithms
 parent_type: CourseSection
 resourcetype: Document

@@ -4,6 +4,7 @@ description: This resource contains information on problem on quiz 8.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/ae49c3a273281c1509d585dcedbbd4ef_MIT6_01SCS11_quiz08.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Op-Amps
 parent_type: CourseSection
 resourcetype: Document

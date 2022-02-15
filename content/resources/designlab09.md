@@ -4,6 +4,7 @@ description: 'This zip file contains: 1 folder and 8 .py files.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/868114d692091b88a2bec8c48d50255c_designLab09.zip
 file_type: application/zip
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Circuit Abstractions
 parent_type: CourseSection
 resourcetype: Other

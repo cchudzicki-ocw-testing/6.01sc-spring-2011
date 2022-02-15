@@ -4,6 +4,7 @@ description: New file Upload
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/674c6976840b2d886ab8ddc914765efc_MIT6_01SCS11_swLab10.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Discrete Probability
 parent_type: CourseSection
 resourcetype: Document

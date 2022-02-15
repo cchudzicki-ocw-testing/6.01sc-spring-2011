@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Diagram of sensor input, brain, and action.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'Unit 1: Software Engineering'
 parent_type: CourseSection
 resourcetype: Image
