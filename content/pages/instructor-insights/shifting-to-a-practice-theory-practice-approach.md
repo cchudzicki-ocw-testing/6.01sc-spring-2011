@@ -35,7 +35,7 @@ At the time, there was already cognitive literature suggesting that students lea
 Encountering Resistance
 -----------------------
 
-![Red robot (approximately 6 inches tall with two wheels, and a flat top. A lego board is affixed to the top.]({{< resource_file a010e171-f88f-d2ee-3fdd-8fccb87650f8 >}})  
+{{< resource a010e171-f88f-d2ee-3fdd-8fccb87650f8 >}}  
 
 Students build mobile robots during the design lab sessions.
 
