@@ -6,7 +6,7 @@ title: 'Unit 2: Signals and Systems'
 uid: 523e1f18-8f85-4804-7030-f2ec4580e9b6
 ---
 
-« {{< resource_link b0e7778a-9914-9a75-aa7b-17b290520cb3 "Previous" >}} | {{< resource_link 6b5aad8b-edd8-1cc6-cd71-6bb0eed5c5d8 "Next" >}} »
+« {{% resource_link b0e7778a-9914-9a75-aa7b-17b290520cb3 "Previous" %}} | {{% resource_link 6b5aad8b-edd8-1cc6-cd71-6bb0eed5c5d8 "Next" %}} »
 
 This unit focuses on analyzing the behaviors of systems. General principles for developing mathematical models of systems are developed in the context of using feedback in control systems, with tangible applications in robotic steering.
 
@@ -43,6 +43,6 @@ modeling complex systems, analyzing behaviors
 
 {{< tableclose >}}
 
-Looking for something specific in this course? The {{< resource_link 4693343a-ca6c-27fd-0d7c-4a0c569df3d1 "Resource Index" >}} compiles links to most course resources in a single page.
+Looking for something specific in this course? The {{% resource_link 4693343a-ca6c-27fd-0d7c-4a0c569df3d1 "Resource Index" %}} compiles links to most course resources in a single page.
 
-« {{< resource_link b0e7778a-9914-9a75-aa7b-17b290520cb3 "Previous" >}} | {{< resource_link 6b5aad8b-edd8-1cc6-cd71-6bb0eed5c5d8 "Next" >}} »
+« {{% resource_link b0e7778a-9914-9a75-aa7b-17b290520cb3 "Previous" %}} | {{% resource_link 6b5aad8b-edd8-1cc6-cd71-6bb0eed5c5d8 "Next" %}} »

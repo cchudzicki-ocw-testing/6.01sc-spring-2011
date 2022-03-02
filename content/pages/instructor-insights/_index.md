@@ -7,7 +7,7 @@ title: Instructor Insights
 uid: 2aef49a5-63b7-0f93-319d-156d62607fed
 ---
 
-« {{< resource_link a867cb2b-8f18-9ea6-007b-e4cfcac89b0e "Previous" >}} | {{< resource_link 7ff627d1-c807-cddd-75e0-3d0659f60269 "Next" >}} »
+« {{% resource_link a867cb2b-8f18-9ea6-007b-e4cfcac89b0e "Previous" %}} | {{% resource_link 7ff627d1-c807-cddd-75e0-3d0659f60269 "Next" %}} »
 
 Course Overview
 ---------------
@@ -37,13 +37,13 @@ Instructor Insights
 
 _In the following pages, Professor Dennis Freeman and Visiting Professor Sanjoy Mahajan describe various aspects of how they teach _6.01 Introduction to Electrical Engineering and Computer Science I_._
 
-*   {{< resource_link b0fe4856-cb03-8a61-e660-9aa70f6303e2 "Shifting to a Practice-Theory-Practice Approach" >}}
-*   {{< resource_link 7852895b-37bf-8286-e877-95a85c35d2d7 "Becoming More Cognizant of Students’ Learning" >}}
-*   {{< resource_link 2280def2-566b-f511-9dc8-6d7e54da9a37 "Flipping the Classroom to Facilitate Active Learning" >}}
-*   {{< resource_link 7443b17e-ca68-13d3-084e-83a7f25a4319 "Using an Online Tutoring Environment to Promote Student Self-Assessment" >}}
-*   {{< resource_link e67f5bf6-4bd7-6a03-436b-80ea36e1fa29 "Formative Assessment during Design Labs" >}}
-*   {{< resource_link 0fbdced9-2346-2bfc-2814-0a1b14fa6d4b "Reflecting on Assessment" >}}
-*   {{< resource_link 2ff0614e-fcb8-f533-5175-f91e6903fa2a "Co-Teaching the Course" >}}
+*   {{% resource_link b0fe4856-cb03-8a61-e660-9aa70f6303e2 "Shifting to a Practice-Theory-Practice Approach" %}}
+*   {{% resource_link 7852895b-37bf-8286-e877-95a85c35d2d7 "Becoming More Cognizant of Students’ Learning" %}}
+*   {{% resource_link 2280def2-566b-f511-9dc8-6d7e54da9a37 "Flipping the Classroom to Facilitate Active Learning" %}}
+*   {{% resource_link 7443b17e-ca68-13d3-084e-83a7f25a4319 "Using an Online Tutoring Environment to Promote Student Self-Assessment" %}}
+*   {{% resource_link e67f5bf6-4bd7-6a03-436b-80ea36e1fa29 "Formative Assessment during Design Labs" %}}
+*   {{% resource_link 0fbdced9-2346-2bfc-2814-0a1b14fa6d4b "Reflecting on Assessment" %}}
+*   {{% resource_link 2ff0614e-fcb8-f533-5175-f91e6903fa2a "Co-Teaching the Course" %}}
 
 _Learn more! In a video at the following Residential Digital Innovations page, Professor Freeman discusses task-centered learning as a pedagogical approach in 6.01 Introduction to Electrical Engineering and Computer Science I._
 
@@ -81,9 +81,9 @@ The students' grades are based on the following activities:
 
 ### Instructor Insights on Assessment
 
-*   {{< resource_link 7443b17e-ca68-13d3-084e-83a7f25a4319 "Using an Online Tutoring Environment to Promote Student Self-Assessment" >}}
-*   {{< resource_link e67f5bf6-4bd7-6a03-436b-80ea36e1fa29 "Formative Assessment during Design Labs" >}}
-*   {{< resource_link 0fbdced9-2346-2bfc-2814-0a1b14fa6d4b "Reflecting on Summative Assessment" >}}
+*   {{% resource_link 7443b17e-ca68-13d3-084e-83a7f25a4319 "Using an Online Tutoring Environment to Promote Student Self-Assessment" %}}
+*   {{% resource_link e67f5bf6-4bd7-6a03-436b-80ea36e1fa29 "Formative Assessment during Design Labs" %}}
+*   {{% resource_link 0fbdced9-2346-2bfc-2814-0a1b14fa6d4b "Reflecting on Summative Assessment" %}}
 
 Student Information
 -------------------
@@ -163,4 +163,4 @@ When offered in the spring semester, _6.01 Introduction to Electrical Engineerin
 
 *   Student Lab Assistants are currently taking the class, but are working ahead; they support other students as they complete the lab experiences. 
 
-« {{< resource_link a867cb2b-8f18-9ea6-007b-e4cfcac89b0e "Previous" >}} | {{< resource_link 7ff627d1-c807-cddd-75e0-3d0659f60269 "Next" >}} »
+« {{% resource_link a867cb2b-8f18-9ea6-007b-e4cfcac89b0e "Previous" %}} | {{% resource_link 7ff627d1-c807-cddd-75e0-3d0659f60269 "Next" %}} »

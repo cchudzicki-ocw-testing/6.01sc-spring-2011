@@ -9,7 +9,7 @@ title: Quadratic Roots
 uid: ce4c90ec-c2fb-3000-9355-7e60b8057994
 ---
 
-« {{< resource_link 14427f34-8f48-0109-8fbb-e6ee945756d4 "Previous" >}} | {{< resource_link 57d4e60d-992f-a07b-e58a-3a6eb537581e "Next" >}} »
+« {{% resource_link 14427f34-8f48-0109-8fbb-e6ee945756d4 "Previous" %}} | {{% resource_link 57d4e60d-992f-a07b-e58a-3a6eb537581e "Next" %}} »
 
 In this section, we'll look at computing both real and complex roots of quadratic equations.
 
@@ -33,7 +33,7 @@ QUESTIONS
 4.1.1
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 5b810e72-0a9e-a0f2-bb05-5cba9d8cd5b1 "Get real (PDF)" >}}
+{{% resource_link 5b810e72-0a9e-a0f2-bb05-5cba9d8cd5b1 "Get real (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,11 +42,11 @@ QUESTIONS
 4.1.2
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 6234c894-eb7b-e49a-7fc9-b3fb9c8995eb "More complex (PDF)" >}}
+{{% resource_link 6234c894-eb7b-e49a-7fc9-b3fb9c8995eb "More complex (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-« {{< resource_link 14427f34-8f48-0109-8fbb-e6ee945756d4 "Previous" >}} | {{< resource_link 57d4e60d-992f-a07b-e58a-3a6eb537581e "Next" >}} »
+« {{% resource_link 14427f34-8f48-0109-8fbb-e6ee945756d4 "Previous" %}} | {{% resource_link 57d4e60d-992f-a07b-e58a-3a6eb537581e "Next" %}} »

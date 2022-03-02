@@ -9,7 +9,7 @@ title: Association Lists
 uid: e9eff05a-fba0-05d6-b94c-6396635771d3
 ---
 
-« {{< resource_link 2bb3ee0d-342c-8763-0f58-9691f27ba007 "Previous" >}} | {{< resource_link 0c533b50-ae1f-2ed5-2d4e-2e0343b23b5b "Next" >}} »
+« {{% resource_link 2bb3ee0d-342c-8763-0f58-9691f27ba007 "Previous" %}} | {{% resource_link 0c533b50-ae1f-2ed5-2d4e-2e0343b23b5b "Next" %}} »
 
 The idea of a dictionary is very important and useful in programming. A dictionary allows you to associate _values_ with _keys_. In an actual English dictionary, the words are the keys and the definitions are the values. So, given a key, you can look up the value. In a phone book, names are the keys and phone numbers are the values.
 
@@ -49,7 +49,7 @@ QUESTIONS
 7.1.1
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link b137abbe-5dd3-bdce-7734-b81c9f98d8ca "Add an entry to an alist (PDF)" >}}
+{{% resource_link b137abbe-5dd3-bdce-7734-b81c9f98d8ca "Add an entry to an alist (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,11 +58,11 @@ QUESTIONS
 7.1.2
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link b874c99a-ea29-a928-a62d-3cd159fae56f "Look up an entry in an alist (PDF)" >}}
+{{% resource_link b874c99a-ea29-a928-a62d-3cd159fae56f "Look up an entry in an alist (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-« {{< resource_link 2bb3ee0d-342c-8763-0f58-9691f27ba007 "Previous" >}} | {{< resource_link 0c533b50-ae1f-2ed5-2d4e-2e0343b23b5b "Next" >}} »
+« {{% resource_link 2bb3ee0d-342c-8763-0f58-9691f27ba007 "Previous" %}} | {{% resource_link 0c533b50-ae1f-2ed5-2d4e-2e0343b23b5b "Next" %}} »

@@ -9,7 +9,7 @@ title: Optimizing a Search
 uid: da41172c-d83b-2571-9eae-caa5c1bcde32
 ---
 
-« {{< resource_link 497582d8-68ca-82e7-7ef7-6b997e187b13 "Previous" >}} | {{< resource_link f0df2cae-e4ea-c3e0-a431-246d722e93a5 "Next" >}} »
+« {{% resource_link 497582d8-68ca-82e7-7ef7-6b997e187b13 "Previous" %}} | {{% resource_link f0df2cae-e4ea-c3e0-a431-246d722e93a5 "Next" %}} »
 
 Session Overview
 ----------------
@@ -28,7 +28,7 @@ In this session, we focus on improving search. We can systematically use informa
 
 The overview handout provides a more detailed introduction, including the big ideas of the session, key vocabulary, what you should understand (theory) and be able to do (practice) after completing this session, and additional resources.
 
-*   {{< resource_link 4cccf934-9d3c-5417-be97-4dfd8bb9e5c3 "Session 13 Handout: Optimizing a Search (PDF)" >}}
+*   {{% resource_link 4cccf934-9d3c-5417-be97-4dfd8bb9e5c3 "Session 13 Handout: Optimizing a Search (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -44,26 +44,26 @@ Session Content
 
 Read sections 8.5-8.6 of the course notes.
 
-*   {{< resource_link 840b87b4-1bfd-9c95-446e-de3604a9312b "Chapter 8: Long-Term Decision-Making and Search (PDF)" >}}
+*   {{% resource_link 840b87b4-1bfd-9c95-446e-de3604a9312b "Chapter 8: Long-Term Decision-Making and Search (PDF)" %}}
 
 ### Lecture Video
 
 Watch the lecture video. The handout and slides present the same material, but the slides include answers to the in-class questions.
 
-*   {{< resource_link 02bf2c9e-d49c-5023-6a5a-325538b053d2 "Lecture 13: Optimizing a Search" >}}
+*   {{% resource_link 02bf2c9e-d49c-5023-6a5a-325538b053d2 "Lecture 13: Optimizing a Search" %}}
 
 > ### About this Video
 > 
 > Uniform cost search takes into account the cost associated with an action, and can be implemented with a priority queue. Heuristics estimate the cost of the remaining path to the goal; the Manhattan distance is an example of an admissible heuristic.
 
-*   {{< resource_link c4b5db63-ed78-92ed-a59a-7a047dc3806c "Lecture handout (PDF)" >}}
-*   {{< resource_link ff5adf49-8ea3-88ad-7842-beaeaf990676 "Lecture slides (PDF)" >}}
+*   {{% resource_link c4b5db63-ed78-92ed-a59a-7a047dc3806c "Lecture handout (PDF)" %}}
+*   {{% resource_link ff5adf49-8ea3-88ad-7842-beaeaf990676 "Lecture slides (PDF)" %}}
 
 ### Recitation Video
 
 These videos have been developed for OCW Scholar, and are designed to supplement the lecture videos.
 
-*   {{< resource_link 069d127a-c9a8-a02d-405d-e0f68c518a84 "Recitation 16: Search: Dynamic Programming, Costs and Heuristics" >}}
+*   {{% resource_link 069d127a-c9a8-a02d-405d-e0f68c518a84 "Recitation 16: Search: Dynamic Programming, Costs and Heuristics" %}}
 
 Session Activities
 ------------------
@@ -72,8 +72,8 @@ The problems in the tables below are taken from the 6.01 Online Tutor, an intera
 
 ### Software Lab
 
-*   {{< resource_link cae1b8b5-66e4-65b5-ab4a-613fe7065f8e "Software Lab 14: Plan from Outer Space (PDF)" >}}
-*   {{< resource_link 01f0f94f-591f-7020-ef71-8a2dafbc2aaa "Code for Software Lab 14 (ZIP)" >}} (This ZIP file contains: 3 .py files.)
+*   {{% resource_link cae1b8b5-66e4-65b5-ab4a-613fe7065f8e "Software Lab 14: Plan from Outer Space (PDF)" %}}
+*   {{% resource_link 01f0f94f-591f-7020-ef71-8a2dafbc2aaa "Code for Software Lab 14 (ZIP)" %}} (This ZIP file contains: 3 .py files.)
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -93,7 +93,7 @@ QUESTIONS
 14.1.1
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 7c716782-3ea0-84c6-d1b0-e03b6edb1fd7 "Modeling the world (PDF)" >}}
+{{% resource_link 7c716782-3ea0-84c6-d1b0-e03b6edb1fd7 "Modeling the world (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +102,7 @@ QUESTIONS
 14.1.2
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link c7e38589-e9a0-1e99-af4f-3a376c509d49 "Robot on a grid map (PDF)" >}}
+{{% resource_link c7e38589-e9a0-1e99-af4f-3a376c509d49 "Robot on a grid map (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,8 +111,8 @@ QUESTIONS
 
 ### Design Lab
 
-*   {{< resource_link eac44100-b94f-c1b8-48b9-ea46cd0a9594 "Design Lab 14: I'm the Map! (PDF)" >}}
-*   {{< resource_link ac67003a-96de-8ae4-4ba6-da23e5c9c665 "Code for Design Lab 14 (ZIP)" >}} (This ZIP file contains: 13 .py files.)
+*   {{% resource_link eac44100-b94f-c1b8-48b9-ea46cd0a9594 "Design Lab 14: I'm the Map! (PDF)" %}}
+*   {{% resource_link ac67003a-96de-8ae4-4ba6-da23e5c9c665 "Code for Design Lab 14 (ZIP)" %}} (This ZIP file contains: 13 .py files.)
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -132,7 +132,7 @@ QUESTIONS
 14.2.3
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 758e5d26-841b-0ef1-141a-c2722e4d9e73 "Aliasing instances (PDF)" >}}
+{{% resource_link 758e5d26-841b-0ef1-141a-c2722e4d9e73 "Aliasing instances (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,4 +148,4 @@ QUESTIONS
 
 {{< tableclose >}}
 
-« {{< resource_link 497582d8-68ca-82e7-7ef7-6b997e187b13 "Previous" >}} | {{< resource_link f0df2cae-e4ea-c3e0-a431-246d722e93a5 "Next" >}} »
+« {{% resource_link 497582d8-68ca-82e7-7ef7-6b997e187b13 "Previous" %}} | {{% resource_link f0df2cae-e4ea-c3e0-a431-246d722e93a5 "Next" %}} »
