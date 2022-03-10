@@ -28,7 +28,7 @@ Course Outcomes
 
 ### Possibilities for Further Study/Careers
 
-This course prepares students to take [_6.02 Introduction to EESC II: Digital Communication Systems_](/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/), [_6.002 Circuits and Electronics_](/courses/6-002-circuits-and-electronics-spring-2007/) and [_6.007 Electromagnetic Energy: From Motors to Lasers_](/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/).
+This course prepares students to take [_6.02 Introduction to EESC II: Digital Communication Systems_](/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012), [_6.002 Circuits and Electronics_](/courses/6-002-circuits-and-electronics-spring-2007) and [_6.007 Electromagnetic Energy: From Motors to Lasers_](/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011).
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
@@ -54,7 +54,7 @@ Curriculum Information
 
 ### Prerequisites
 
-6.01 has no formal pre-requisites. Students at MIT are expected to take [_8.02 Physics II: Electricity and Magnetism_](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/) as a co-requisite.
+6.01 has no formal pre-requisites. Students at MIT are expected to take [_8.02 Physics II: Electricity and Magnetism_](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007) as a co-requisite.
 
 ### Requirements Satisfied
 

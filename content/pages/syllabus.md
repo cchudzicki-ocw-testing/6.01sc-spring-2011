@@ -28,7 +28,7 @@ This OCW Scholar course will be most useful to students with the following backg
     *   Sequences and series, some trigonometry (for poles)
     *   No extensive skill with calculus is required, but students should understand that velocity is the derivative of position, and be able to estimate the velocity of an object from a graph of its position.
 *   Programming
-    *   Some programming experience is good, but not necessarily required. The {{% resource_link eb35763e-4457-1074-0617-fdcde7901af1 "Python Tutorial" %}} is designed to get students up to speed with Python, while a course like [_6.189 A Gentle Introduction to Programming Using Python_](/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/) may be useful for students will little or no programming experience.
+    *   Some programming experience is good, but not necessarily required. The {{% resource_link eb35763e-4457-1074-0617-fdcde7901af1 "Python Tutorial" %}} is designed to get students up to speed with Python, while a course like [_6.189 A Gentle Introduction to Programming Using Python_](/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011) may be useful for students will little or no programming experience.
 *   Physics
     *   Some exposure to solving basic circuits: Ohm's law, passive components (such as resistors and capacitors), reducing a circuit to a system of linear equations.
 
