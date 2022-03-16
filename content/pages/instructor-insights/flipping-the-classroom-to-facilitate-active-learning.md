@@ -1,5 +1,6 @@
 ---
 content_type: page
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -9,8 +10,7 @@ parent_uid: 2aef49a5-63b7-0f93-319d-156d62607fed
 title: Flipping the Classroom to Facilitate Active Learning
 uid: 2280def2-566b-f511-9dc8-6d7e54da9a37
 ---
-
-_In this section, Sanjoy Mahajan describes how Chi and Wylie’s (2014) ICAP Framework shapes how he understands how flipping the classroom in 6.01 Introduction to Electrical Engineering and Computer Science I enables students to engage in deep active learning experiences during lectures and labs._
+_In this section, Sanjoy Mahajan describes how Chi and Wylie’s (2014) ICAP Framework shapes how he understands how flipping the classroom in_ 6.01 Introduction to Electrical Engineering and Computer Science I _enables students to engage in deep active learning experiences during lectures and labs._
 
 The ICAP (Interactive, Constructive, Active, and Passive) Framework, developed by Michelene Chi and Ruth Wylie (2014), is central to my understanding of how _6.01 Introduction to Electrical Engineering and Computer Science I_ functions as a flipped classroom ![](/images/educator/icon-question-flip.png). This framework is a way of thinking about active versus passive learning, and about how different levels of active learning are associated with different depths of learning.
 
@@ -22,7 +22,7 @@ They describe their next level of active learning as _constructive_. At this lev
 
 The highest level of active learning in the ICAP Framework is called _interactive_ learning. At this level, students engage in dialogue with others about the new concepts. This leads to understanding that has the potential to create new ideas.
 
-{{< resource 2850e045-1e13-40a7-6505-0347963713da "Yellow box filled with grey and blue Legos. Other Legos of various shapes and colors on table outside of box. A grey cable rests on top of the Legos. Grey circuit board visible." >}}  
+{{\< resource 2850e045-1e13-40a7-6505-0347963713da "Yellow box filled with grey and blue Legos. Other Legos of various shapes and colors on table outside of box. A grey cable rests on top of the Legos. Grey circuit board visible." >}}
 
 Students use these materials to build robots during design labs.
 
