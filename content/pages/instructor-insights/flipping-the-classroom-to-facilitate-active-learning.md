@@ -22,7 +22,7 @@ They describe their next level of active learning as _constructive_. At this lev
 
 The highest level of active learning in the ICAP Framework is called _interactive_ learning. At this level, students engage in dialogue with others about the new concepts. This leads to understanding that has the potential to create new ideas.
 
-{{\< resource 2850e045-1e13-40a7-6505-0347963713da "Yellow box filled with grey and blue Legos. Other Legos of various shapes and colors on table outside of box. A grey cable rests on top of the Legos. Grey circuit board visible." >}}
+{{< resource 2850e045-1e13-40a7-6505-0347963713da "Yellow box filled with grey and blue Legos. Other Legos of various shapes and colors on table outside of box. A grey cable rests on top of the Legos. Grey circuit board visible." >}}
 
 Students use these materials to build robots during design labs.
 
