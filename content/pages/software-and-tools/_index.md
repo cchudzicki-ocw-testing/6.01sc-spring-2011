@@ -48,7 +48,7 @@ Python/IDLE Resources
 
 This is the standard tutorial reference by the inventor of Python. Everyone should have a bookmark for it in their browser for reference. For learning programming, however, start with _Think Python_, below.
 
-_Think Python: An Introduction to Software Design_, by Allen Downey. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0MB](http://www.greenteapress.com/thinkpython/thinkpython.pdf))
+_Think Python: An Introduction to Software Design_, by Allen Downey. ([PDF - 1.0MB](http://www.greenteapress.com/thinkpython/thinkpython.pdf))
 
 This is a good introductory text that uses Python to present basic ideas of computer science and programming. It's especially recommended if you don't have a lot of programming experience and a good thing to skim even if you do.
 

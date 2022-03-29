@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 12: Thevenin/Norton Equivalence and Superposition'
 uid: d4d5c4c3-5e70-a53a-0e89-85dd7558b20e
 video_files:
