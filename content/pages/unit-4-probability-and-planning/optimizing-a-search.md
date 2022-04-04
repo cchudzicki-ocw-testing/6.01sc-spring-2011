@@ -141,7 +141,7 @@ QUESTIONS
 14.2.6
 {{< tdclose >}}
 {{< tdopen >}}
-[Robot race results \[optional\] (PDF)]({{< baseurl >}}/resources/mit6_01scs11_14_2_6)
+{{% resource_link "ac14e7e8-9ae0-1b23-6621-416d237463a7" "Robot race results \[optional\] (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

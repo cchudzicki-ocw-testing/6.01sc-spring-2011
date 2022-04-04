@@ -138,7 +138,7 @@ QUESTIONS
 10.3.6
 {{< tdclose >}}
 {{< tdopen >}}
-[Subtraction action \[optional\] (PDF)]({{< baseurl >}}/resources/mit6_01scs11_10_3_6)
+{{% resource_link "ca7ad748-06d8-866e-726b-18c1768cce2e" "Subtraction action \[optional\] (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +147,7 @@ QUESTIONS
 10.3.7
 {{< tdclose >}}
 {{< tdopen >}}
-[Op-amp \[optional\] (PDF)]({{< baseurl >}}/resources/mit6_01scs11_10_3_7)
+{{% resource_link "91b78bd5-9e89-2c13-9dd8-9a0486ad692c" "Op-amp \[optional\] (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +156,7 @@ QUESTIONS
 10.3.8
 {{< tdclose >}}
 {{< tdopen >}}
-[Op-amp \[optional\] (PDF)]({{< baseurl >}}/resources/mit6_01scs11_10_3_8)
+{{% resource_link "38b1b9dd-fcf0-4034-3751-a0121350ae32" "Op-amp \[optional\] (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +165,7 @@ QUESTIONS
 10.3.9
 {{< tdclose >}}
 {{< tdopen >}}
-[Endless summer \[optional\] (PDF)]({{< baseurl >}}/resources/mit6_01scs11_10_3_9)
+{{% resource_link "5bdf4719-f3d3-5622-f435-0537763a862e" "Endless summer \[optional\] (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

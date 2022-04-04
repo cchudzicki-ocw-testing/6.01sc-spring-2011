@@ -170,7 +170,7 @@ QUESTIONS
 13.3.5
 {{< tdclose >}}
 {{< tdopen >}}
-[Obstacles \[optional\] (PDF)]({{< baseurl >}}/resources/mit6_01scs11_13_3_5)
+{{% resource_link "b3a62a9d-96fc-556b-61b5-0dc42774ba56" "Obstacles \[optional\] (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -179,7 +179,7 @@ QUESTIONS
 13.3.6
 {{< tdclose >}}
 {{< tdopen >}}
-[Knight paths on a chessboard \[optional\] (PDF)]({{< baseurl >}}/resources/mit6_01scs11_13_3_6)
+{{% resource_link "dca56ea4-a223-f997-ae72-f6fcf791bfc5" "Knight paths on a chessboard \[optional\] (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -188,7 +188,7 @@ QUESTIONS
 13.3.7
 {{< tdclose >}}
 {{< tdopen >}}
-[Two robots on a grid \[optional\] (PDF)]({{< baseurl >}}/resources/mit6_01scs11_13_3_7)
+{{% resource_link "a3916108-ee55-0192-b60b-d86b3795cb4b" "Two robots on a grid \[optional\] (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

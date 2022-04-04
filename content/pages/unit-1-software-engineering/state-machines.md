@@ -130,7 +130,7 @@ QUESTIONS
 2.1.5
 {{< tdclose >}}
 {{< tdopen >}}
-[First word machine \[optional\] (PDF)]({{< baseurl >}}/resources/mit6_01scs11_2_1_5)
+{{% resource_link "05ec80ad-f744-49e3-b684-bcf6f44d4df2" "First word machine \[optional\] (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

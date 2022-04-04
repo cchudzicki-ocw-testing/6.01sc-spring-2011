@@ -220,7 +220,7 @@ QUESTIONS
 1.4.7
 {{< tdclose >}}
 {{< tdopen >}}
-[Palindrome \[optional\] (PDF)]({{< baseurl >}}/resources/mit6_01scs11_1_4_7)
+{{% resource_link "164f50db-9d17-145f-6987-b6a7458a2c76" "Palindrome \[optional\] (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +229,7 @@ QUESTIONS
 1.4.8
 {{< tdclose >}}
 {{< tdopen >}}
-[Substring \[optional\] (PDF)]({{< baseurl >}}/resources/mit6_01scs11_1_4_8)
+{{% resource_link "6d15a421-a18c-3b5d-36ea-dc211f965f26" "Substring \[optional\] (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -238,7 +238,7 @@ QUESTIONS
 1.4.9
 {{< tdclose >}}
 {{< tdopen >}}
-[Extract tags \[optional\] (PDF)]({{< baseurl >}}/resources/mit6_01scs11_1_4_9)
+{{% resource_link "69194a1e-1121-3dfa-99ae-58e4b6023f0e" "Extract tags \[optional\] (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +247,7 @@ QUESTIONS
 1.4.10
 {{< tdclose >}}
 {{< tdopen >}}
-[Fruit class \[optional\] (PDF)]({{< baseurl >}}/resources/mit6_01scs11_1_4_10)
+{{% resource_link "0085791f-7116-edc5-0c18-57f8e9531597" "Fruit class \[optional\] (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -256,7 +256,7 @@ QUESTIONS
 1.4.11
 {{< tdclose >}}
 {{< tdopen >}}
-[Warehouse \[optional\] (PDF)]({{< baseurl >}}/resources/mit6_01scs11_1_4_11)
+{{% resource_link "09cd857f-92f2-c2c0-4f54-ceaa32c93cc5" "Warehouse \[optional\] (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
