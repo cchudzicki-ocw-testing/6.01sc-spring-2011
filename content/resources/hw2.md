@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/9af2166244f5c9a01596ebc07b56d28e_hw2.zip
+file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/9af2166244f5c9a01596ebc07b56d28e_hw2.zip
 file_type: application/zip
 learning_resource_types: []
 ocw_type: OCWFile
