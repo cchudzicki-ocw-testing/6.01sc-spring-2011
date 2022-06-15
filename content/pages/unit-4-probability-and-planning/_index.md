@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides an overview of the Probability and Planning unit.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit 4: Probability and Planning'

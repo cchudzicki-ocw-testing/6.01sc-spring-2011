@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course goals, structure,
+  prerequisites, grading, and course notes.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

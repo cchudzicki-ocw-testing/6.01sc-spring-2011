@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This session contains readings, lecture and recitation video, design
+  lab, additional exercises, and a nano-quiz.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit 3: Circuits'

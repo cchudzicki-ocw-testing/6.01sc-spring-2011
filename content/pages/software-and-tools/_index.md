@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains software installation instructions, software documentation,
+  lab references, and Python/IDLE resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Software and Tools

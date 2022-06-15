@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides exams with solutions from several semesters of
+  the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Final Exam

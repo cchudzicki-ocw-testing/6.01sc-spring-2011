@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains an introduction to the 6.01 Python tutorial and
+  links to the seven tutorial sections.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Python Tutorial

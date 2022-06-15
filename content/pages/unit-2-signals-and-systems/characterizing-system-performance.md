@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This session contains readings, lecture and recitation video, software
+  and design labs, additional exercises, a nano-quiz, and homework.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit 2: Signals and Systems'

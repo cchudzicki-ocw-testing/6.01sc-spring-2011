@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This session contains readings, lecture and recitation video, software
+  and design labs, and additional exercises.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit 4: Probability and Planning'

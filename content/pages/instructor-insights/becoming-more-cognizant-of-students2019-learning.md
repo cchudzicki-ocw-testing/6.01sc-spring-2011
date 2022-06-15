@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

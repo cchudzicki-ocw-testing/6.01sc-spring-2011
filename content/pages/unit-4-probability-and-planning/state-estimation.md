@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This session contains readings, recitation video, software and design
+  labs, a nano-quiz, and homework.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit 4: Probability and Planning'

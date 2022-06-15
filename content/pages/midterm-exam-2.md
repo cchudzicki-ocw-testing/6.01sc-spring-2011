@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains Midterm 2 exams and solutions from several semesters.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Midterm Exam 2

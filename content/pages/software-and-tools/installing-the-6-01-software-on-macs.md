@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains instructions for installing the 6.01 software on
+  MacOS X.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Software and Tools
