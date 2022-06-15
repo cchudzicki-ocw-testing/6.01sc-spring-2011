@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
 draft: false
 layout: instructor_insights
 learning_resource_types: []
