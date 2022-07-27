@@ -4,6 +4,7 @@ description: 'This zip file contains: 1 ms-dos batch file.'
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/ba621dedc9de8c149367dbf65fc4679d_idleNForWindows.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Signals and Systems
 parent_type: CourseSection

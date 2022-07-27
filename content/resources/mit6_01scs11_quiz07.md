@@ -4,6 +4,7 @@ description: New file Upload
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/8ccbd850a3ca0efc27d426b5fa44aecb_MIT6_01SCS11_quiz07.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Circuits
 parent_type: CourseSection

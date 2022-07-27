@@ -4,6 +4,7 @@ description: This resource contains information on problem on section 4, lists.
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/30067abf84cee3c7c5f9d3c5763b525c_MIT6_01SCS11_python04.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Loops and List Comprehensions
 parent_type: CourseSection
